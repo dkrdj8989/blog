@@ -1,0 +1,6 @@
+.pagination{
+  display: inline-block;
+}
+.pagination > li{
+  display: inline;
+}
